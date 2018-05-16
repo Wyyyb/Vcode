@@ -58,5 +58,5 @@ View的抽象，负责View与 Model之间信息转换，同时将View的 Command
     * update(string) : void
     * commandSucceed(bool) : void
 ### `功能效果图`
-
+<img src='./img/Frame.png'>
 
